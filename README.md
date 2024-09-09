@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0d/78/49/0d784930fcf326f080df2ec15baccd49.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinlopez&label=Profile%20views&color=0e75b6&style=flat" alt="gavinlopez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kurtgav&label=Profile%20views&color=0e75b6&style=flat" alt="kurtgav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/strangeyunabiii" target="blank"><img src="https://img.shields.io/twitter/follow/strangeyunabiii?logo=twitter&style=for-the-badge" alt="strangeyunabiii" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Connect with me: www.linkedin.com/in/kurtgavin/
 
-- 🖥 Check my updated website: https://gavinlopez.github.io/kurtgavin/
+- 🖥 Check my updated website: https://gavinlopez.github.io/kurtgav/
 
 - 📞 Open for Consultations and Collaborations
 
